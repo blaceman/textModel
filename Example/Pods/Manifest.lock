@@ -1,0 +1,16 @@
+PODS:
+  - textModelDemo (0.1.0)
+
+DEPENDENCIES:
+  - textModelDemo (from `../`)
+
+EXTERNAL SOURCES:
+  textModelDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  textModelDemo: 6e63fcb1befa0213afd3b7081b6cdf2a534f7a9e
+
+PODFILE CHECKSUM: b49825197fb097b672e831887a7bf1ec9de3f8a5
+
+COCOAPODS: 1.0.0

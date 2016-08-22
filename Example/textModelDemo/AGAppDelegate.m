@@ -7,7 +7,7 @@
 //
 
 #import "AGAppDelegate.h"
-
+#import "textmodel.h"
 @implementation AGAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions

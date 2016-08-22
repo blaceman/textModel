@@ -1,0 +1,6 @@
+framework module textModelDemo {
+  umbrella header "textModelDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

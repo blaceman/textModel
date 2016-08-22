@@ -1,0 +1,6 @@
+framework module Pods_textModelDemo_Tests {
+  umbrella header "Pods-textModelDemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
