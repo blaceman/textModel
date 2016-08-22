@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'textModelDemo_Example' do
+  pod 'textModelDemo', :path => '../'
+
+  target 'textModelDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
